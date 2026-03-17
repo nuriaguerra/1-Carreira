@@ -23,24 +23,4 @@ Non é fácil ao principio porque require cambiar a forma de pensar: menos cálc
 
 ---
 
-## Estrutura deste directorio
-
-```
-Alxebra/
-├── README.md          ← estás aquí
-├── teoria/            ← apuntes por temas
-├── practicas/         ← exercicios resoltos
-└── examenes/          ← exames de anos anteriores (se os hai)
-```
-
----
-
-## Consellos
-
-- Os autovalores e autovectores custan máis do que parecen ao principio. Dálles tempo.
-- Practicar con exercicios variados é máis útil que releer a teoría.
-- Se algo non cadra, revisa as propiedades das operacións — adoita ser un detalle de definición.
-
----
-
-> ⚠ Este material é orientativo. Contrasta sempre co temario oficial da túa universidade.
+> ⚠ Este material é orientativo.
