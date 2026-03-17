@@ -20,7 +20,6 @@ Non é fácil ao principio porque require cambiar a forma de pensar: menos cálc
 - Transformacións lineais
 - Valores e vectores propios (autovalores e autovectores)
 - Diagonalización
-- Formas cuadráticas
 
 ---
 
