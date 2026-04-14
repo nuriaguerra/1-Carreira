@@ -6,8 +6,8 @@
 
 ## De que vai esta materia
 
-Esta materia ten dúas partes ben diferenciadas:
+Esta materia ten dúas partes:
 
-**Cálculo** traballa con funcións, límites, derivadas e integrais — as ferramentas clásicas da análise matemática. Aparece en gráficos, física de videoxogos, optimización de algoritmos e aprendizaxe automática.
+**Cálculo** traballa con funcións, límites, derivadas e integrais.
 
-**Análise Numérico** estuda como resolver matematicamente problemas que non teñen solución exacta: aproximar raíces, resolver sistemas de ecuacións grandes, integrar funcións complicadas. É a ponte entre as matemáticas e o ordenador.
+**Análise Numérico** estuda como resolver matematicamente problemas que non teñen solución exacta: aproximar raíces, resolver sistemas de ecuacións, integrar funcións complicadas.
