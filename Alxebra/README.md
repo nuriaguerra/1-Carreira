@@ -6,6 +6,4 @@
 
 ## De que vai esta materia
 
-Álxebra é a base matemática sobre a que se constrúe boa parte da informática teórica. Trabállase con estruturas abstractas como grupos, aneis e espazos vectoriais, que máis adiante aparecen en criptografía, gráficos 3D, aprendizaxe automática e moitas outras áreas.
-
-Non é fácil ao principio porque require cambiar a forma de pensar: menos cálculo mecánico, máis razoamento e demostración.
+Álxebra é a base matemática sobre a que se constrúe boa parte da informática teórica. Trabállase con estruturas abstractas como espazos vectoriais, que máis adiante aparecen noutras áreas. Non é fácil pero require ao principio poñerse, polo menos cando me tocou dala a min, era máis razoamento e demostración.
