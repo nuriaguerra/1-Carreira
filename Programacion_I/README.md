@@ -6,6 +6,6 @@
 
 ## De que vai esta materia
 
-Programación I é o punto de partida. Aquí aprendes a pensar como un programa: descompoñer un problema en pasos, expresar eses pasos nun linguaxe formal e facer que un ordenador os execute.
+Programación I é o punto de partida. Aquí aprendes a: descompoñer un problema en pasos, expresar eses pasos nunha linguaxe de programación e facer que un ordenador os execute.
 
-A linguaxe usada adoita ser **C**, e será mellor que aprendas porque valo empregar en segundo tamén.
+A linguaxe usada é **C**, e será mellor que aprendas porque valo empregar en segundo tamén.
