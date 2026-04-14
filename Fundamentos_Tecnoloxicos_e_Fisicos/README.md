@@ -6,4 +6,4 @@
 
 ## De que vai esta materia
 
-Non é a materia favorita de todo o mundo en Informática, as prácticas son simplemente maravillosas.
+Os primeiros temas son un pequeno repaso do que se da no instituto sobre Tecnoloxía e física. É unha das asignaturas máis sinxelas do primeiro curso, e as prácticas son moi sinxelas.
